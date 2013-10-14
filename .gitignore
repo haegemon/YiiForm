@@ -1,0 +1,9 @@
+files/*
+i/*
+assets/images/.tmb/*
+protected/runtime/*
+.tmb/*
+workingCopyMain.php
+consoleWorkingLocal.php
+.project
+themes/travelTheme/styles/.sass-cache/
